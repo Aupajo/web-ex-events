@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serv:message xmlns:serv="http://www.webex.com/schemas/2002/06/service" xmlns:com="http://www.webex.com/schemas/2002/06/common" xmlns:event="http://www.webex.com/schemas/2002/06/service/event">
+ <serv:header>
+  <serv:response>
+   <serv:result>SUCCESS</serv:result>
+   <serv:gsbStatus>PRIMARY</serv:gsbStatus>
+  </serv:response>
+ </serv:header>
+ <serv:body>
+  <serv:bodyContent xsi:type="event:lstsummaryEventResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <event:matchingRecords>
+    <serv:total>13</serv:total>
+    <serv:returned>13</serv:returned>
+    <serv:startFrom>1</serv:startFrom>
+   </event:matchingRecords>
+   <event:event>
+    <event:sessionKey>337167902</event:sessionKey>
+    <event:sessionName>Baking Basics</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/01/2013 05:00:00</event:startDate>
+    <event:endDate>05/01/2013 06:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>241299796</event:sessionKey>
+    <event:sessionName>Advanced Baking</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/01/2013 08:00:00</event:startDate>
+    <event:endDate>05/01/2013 09:00:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>60</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists>Satoshi Nakamoto</event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>741475588</event:sessionKey>
+    <event:sessionName>Baking Basics</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/01/2013 11:00:00</event:startDate>
+    <event:endDate>05/01/2013 12:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>785125343</event:sessionKey>
+    <event:sessionName>Baking Basics</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/01/2013 13:00:00</event:startDate>
+    <event:endDate>05/01/2013 14:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>516377344</event:sessionKey>
+    <event:sessionName>Baking Basics</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/02/2013 05:00:00</event:startDate>
+    <event:endDate>05/02/2013 06:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>675735386</event:sessionKey>
+    <event:sessionName>Advanced Baking</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/02/2013 08:00:00</event:startDate>
+    <event:endDate>05/02/2013 09:00:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>60</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists>Satoshi Nakamoto</event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>448544768</event:sessionKey>
+    <event:sessionName>Baking Basics</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/02/2013 11:00:00</event:startDate>
+    <event:endDate>05/02/2013 12:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>548465686</event:sessionKey>
+    <event:sessionName>Baking Basics</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/02/2013 13:00:00</event:startDate>
+    <event:endDate>05/02/2013 14:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>265268976</event:sessionKey>
+    <event:sessionName>Advanced Baking</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/03/2013 08:00:00</event:startDate>
+    <event:endDate>05/03/2013 09:00:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>60</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists>Satoshi Nakamoto</event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>223574221</event:sessionKey>
+    <event:sessionName>Baking Basics</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/07/2013 05:00:00</event:startDate>
+    <event:endDate>05/07/2013 06:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>495477388</event:sessionKey>
+    <event:sessionName>Advanced Baking</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/07/2013 11:00:00</event:startDate>
+    <event:endDate>05/07/2013 12:00:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>60</event:duration>
+    <event:description>Learn advanced Japanese baking techniques in this hour-long webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>PUBLIC</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>252653476</event:sessionKey>
+    <event:sessionName>Baking Basics</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/07/2013 11:00:00</event:startDate>
+    <event:endDate>05/07/2013 12:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>Learn the intricacies of Japanese baking in this 90 minute webinar.</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+   <event:event>
+    <event:sessionKey>356727241</event:sessionKey>
+    <event:sessionName>Baking Finale</event:sessionName>
+    <event:sessionType>220</event:sessionType>
+    <event:hostWebExID>bakery</event:hostWebExID>
+    <event:startDate>05/07/2013 13:00:00</event:startDate>
+    <event:endDate>05/07/2013 14:30:00</event:endDate>
+    <event:timeZoneID>4</event:timeZoneID>
+    <event:duration>90</event:duration>
+    <event:description>A 90 minute wrap-up event!</event:description>
+    <event:status>NOT_INPROGRESS</event:status>
+    <event:panelists></event:panelists>
+    <event:listStatus>UNLISTED</event:listStatus>
+   </event:event>
+  </serv:bodyContent>
+ </serv:body>
+</serv:message>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serv:message xmlns:serv="http://www.webex.com/schemas/2002/06/service" xmlns:com="http://www.webex.com/schemas/2002/06/common" xmlns:event="http://www.webex.com/schemas/2002/06/service/event">
+ <serv:header>
+  <serv:response>
+   <serv:result>FAILURE</serv:result>
+   <serv:reason>Sorry, no record found</serv:reason>
+   <serv:gsbStatus>PRIMARY</serv:gsbStatus>
+   <serv:exceptionID>000015</serv:exceptionID>
+  </serv:response>
+ </serv:header>
+ <serv:body>
+  <serv:bodyContent/>
+ </serv:body>
+</serv:message>
