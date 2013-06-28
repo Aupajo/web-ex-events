@@ -1,6 +1,7 @@
 # WebEx::Events
 
 [![Gem Version](https://badge.fury.io/rb/web-ex-events.png)](http://badge.fury.io/rb/web-ex-events)
+[![Build Status](https://travis-ci.org/Aupajo/web-ex-events.png?branch=master)](https://travis-ci.org/Aupajo/web-ex-events)
 
 A library to read WebEx events through the WebEx API.
 
