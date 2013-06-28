@@ -26,8 +26,8 @@ module WebEx
       
         self.new(
           name: element.xpath('sessionName').text,
-          start_date: TimeWithZone.new(element.xpath('startDate').text, element.xpath('timeZoneID').text).to_datetime,
-          end_date: TimeWithZone.new(element.xpath('endDate').text, element.xpath('timeZoneID').text).to_datetime,
+          start_date: ::WebEx::Events::TimeWithZone.new(element.xpath('startDate').text, element.xpath('timeZoneID').text).to_datetime,
+          end_date: ::WebEx::Events::TimeWithZone.new(element.xpath('endDate').text, element.xpath('timeZoneID').text).to_datetime,
           key: element.xpath('sessionKey').text,
           description: element.xpath('description').text,
           duration: element.xpath('duration').text.to_i

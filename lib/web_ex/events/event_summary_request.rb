@@ -40,7 +40,7 @@ module WebEx
                 <dateScope>
                   <startDateStart>#{formatted_date start_date}</startDateStart>
                   <endDateEnd>#{formatted_date end_date}</endDateEnd>
-                  <timeZoneID>#{TimeWithZone::UTC_ZONE_ID}</timeZoneID>
+                  <timeZoneID>#{::WebEx::Events::TimeWithZone::UTC_ZONE_ID}</timeZoneID>
                 </dateScope>
               </bodyContent>
             </body>
