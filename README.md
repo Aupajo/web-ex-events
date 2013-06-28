@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-require 'webex/events'
+require 'web_ex/events'
 
 # Set WebEx site name
 ENV['WEB_EX_SITE_NAME'] = "…"
