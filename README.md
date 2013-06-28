@@ -29,7 +29,7 @@ require 'web_ex/events'
 # Set WebEx site name
 ENV['WEB_EX_SITE_NAME'] = "…"
 
-# Web Ex Site and Partner ID (available through WebEx support request)
+# WebEx Site and Partner ID (available through WebEx support request)
 ENV['WEB_EX_SITE_ID'] = "…"
 ENV['WEB_EX_PARTNER_ID'] = "…"
 
