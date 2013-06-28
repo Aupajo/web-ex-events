@@ -1,6 +1,10 @@
 # WebEx::Events
 
+[![Gem Version](https://badge.fury.io/rb/web-ex-events.png)](http://badge.fury.io/rb/web-ex-events)
+
 A library to read WebEx events through the WebEx API.
+
+Tested against Ruby 2.0.0.
 
 ## Installation
 
