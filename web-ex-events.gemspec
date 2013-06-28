@@ -26,5 +26,5 @@ Gem::Specification.new do |spec|
   
   spec.add_dependency "tzinfo"
   spec.add_dependency "httparty"
-  spec.add_dependency "nokogiri", "~> 1.5.9"
+  spec.add_dependency "nokogiri"
 end
