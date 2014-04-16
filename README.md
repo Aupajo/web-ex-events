@@ -6,7 +6,7 @@
 
 A library to read WebEx events through the WebEx API.
 
-Tested against Ruby 2.0.0.
+Tested against Ruby 2.0.0, 2.1.0, 2.1.1.
 
 ## Installation
 
